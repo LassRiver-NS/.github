@@ -4,7 +4,7 @@ Org: LassRiver-NS-A2026EDW
 -->
 
 <p align="center">
-  <img src="./logo.png" alt="LassRiver-NS-A2026EDW Logo" width="400" style="border-radius:50%;" />
+  <img src="./logo-removebg-preview.png" alt="LassRiver-NS-A2026EDW Logo" width="400" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">LassRiver-NS-A2026EDW</h1>
